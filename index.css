@@ -13,3 +13,11 @@
     background-image: url(player.png);
     background-repeat: no-repeat;
 }
+
+.bullet {
+    position: absolute;
+    width: 16px;
+    height: 16px;
+    background-image: url(bullet.png);
+    background-repeat: no-repeat;
+}
