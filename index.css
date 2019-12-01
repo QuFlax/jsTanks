@@ -3,13 +3,13 @@
     min-height: 100vh;
     padding: 0;
     margin: 0;
-    background-image: url(../sprites/back.png);
+    background-image: url(back.png);
 }
 
 .player {
     position: absolute;
     width: 78px;
     height: 77px;
-    background-image: url(../sprites/player-top.png);
+    background-image: url(player.png);
     background-repeat: no-repeat;
 }
