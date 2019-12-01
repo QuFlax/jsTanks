@@ -92,7 +92,7 @@ function game() {
 let gameZone = document.querySelector('.game-zone'),
     fps = 1000 / 60,
     player = {
-        sprite: 'src/sprites/player.png',
+        sprite: 'player.png',
         el: false,
         x: 500,
         y: 400,
